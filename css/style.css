@@ -1,0 +1,22 @@
+html
+{
+	background: #F0F3FF;
+	font-family: Arial;
+	font-style: normal;
+}
+
+ul
+{
+	padding:0;
+	list-style: none;
+}
+
+.title
+{
+	height: 66px;
+	margin: 0 0;
+	font-weight: 900px;
+	font-size: 48px;
+	line-height: 66px;
+	color: #2E282C;
+}
