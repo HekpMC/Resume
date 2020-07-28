@@ -1,22 +1,80 @@
-html
-{
-	background: #F0F3FF;
+html{
+	background: #525659;
 	font-family: Arial;
 	font-style: normal;
+	color: #4B484F;
+	font-size: 22px;
 }
 
-ul
-{
+ul{
 	padding:0;
 	list-style: none;
 }
 
-.title
+h1{
+	height: 66px;
+	margin: 0 0;
+	font-size: 48px;
+	line-height: 66px;
+	color: #1F497D;
+}
+h2
 {
 	height: 66px;
 	margin: 0 0;
-	font-weight: 900px;
-	font-size: 48px;
+	font-size: 36px;
 	line-height: 66px;
-	color: #2E282C;
+	color: #4B484F;
+}
+h3
+{
+	height: 66px;
+	margin: 0px 10px;
+	font-size: 36px;
+	line-height: 66px;
+	color: #1F497D;
+	display: inline-block;
+}
+hr{
+	border: none;
+  background-color: #1F497D;
+  height: 4px;
+	width: 30%;
+	display: inline-block;
+}
+
+.rectangle{
+  background: white;
+	width: 1240px;
+	height: auto;
+	margin: 80px 80px;
+	padding: 100px 100px;
+	padding-bottom: 80px;
+	box-shadow: 0px 16px 32px rgba(0, 0, 0, 0.12);
+	display: inline-block;
+}
+.block{
+	margin-top: 40px;
+	position: relative;
+}
+.cardText{
+	display: inline-block;
+}
+.contact-line{
+	margin-top: 30px;
+}
+.contact{
+	display: inline-block;
+}
+
+.photo{
+width: 20%;
+height: auto;
+}
+
+.column{
+	float: left;
+  width: 300px;
+  margin: 0px 0px;
+  margin-right:40px;
 }
