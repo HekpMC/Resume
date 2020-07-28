@@ -1,1 +1,1 @@
-# HekpMC.Resume.github.io
+# HekpMC.github.io/Resume/
